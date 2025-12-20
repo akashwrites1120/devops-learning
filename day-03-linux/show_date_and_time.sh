@@ -1,8 +1,9 @@
-#!bin/bash
+#!/bin/bash
 
-mkdir new_folder
-cd /home/akash/my_scripts/new_folder
-touch new_file.txt
-echo "this is a new file" > new_file.txt
+echo "The date is"
+date | awk '{print $1, $2, $3}'
 
-show_date_and_time.sh
+echo "The time is"
+date | awk '{print $5, $6}'
+
+echo $SHELL -> to check i am in shell or not

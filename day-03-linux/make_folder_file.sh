@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 mkdir new_folder
 cd /home/akash/my_scripts/new_folder

@@ -145,38 +145,4 @@ Copies `new_file1.txt` from the remote server to the current local directory.
 
 ---
 
-## 📈 System Monitoring
 
-### View top processes (first 5 lines)
-```bash
-top -b | head -5
-```
-Displays the first 5 lines of system processes in batch mode.
-
----
-
-## ⚙️ System Services Management
-
-### Check Docker service status
-```bash
-systemctl status docker
-```
-Checks if Docker is active and running in the background (daemon mode).
-
-### Check SSH daemon status
-```bash
-systemctl status sshd
-```
-Checks if the SSH daemon is active and running.
-
-### Start Docker service
-```bash
-sudo systemctl start docker
-```
-Starts the Docker service in the background.
-
-### Stop Docker service
-```bash
-sudo systemctl stop docker
-```
-Stops the Docker service running in the background.

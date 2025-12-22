@@ -110,6 +110,8 @@ date | awk '{print $5, $6}'
 ---
 
 ### Script 3: Disk Space Usage
+
+**File:** `diskSpaceUsage.sh`
 ```bash
 #!/bin/bash
 df -H

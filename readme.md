@@ -17,7 +17,7 @@ Each day's folder contains:
 - **Day 01** - [Linux Basics & File Operations](./day-01/notes.md)
 - **Day 02** - [User Management, Permissions & System Operations](./day-02/notes.md)
 - **Day 03** - [Linux System Monitoring & Shell Scripting](./day-03-linux/notes.md)
-
+- **Day 04** - [Git & Version Control System](./day-04-git-github/notes.md)
 
 
 ## 🛠️ Tools & Technologies

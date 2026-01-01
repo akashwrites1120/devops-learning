@@ -1,6 +1,6 @@
 # Day 04 – Git & Version Control System
 
-This document contains Git commands and concepts for version control, branching, and collaboration.
+This contains Git commands and concepts for version control, branching, and collaboration.
 
 ---
 
@@ -213,4 +213,5 @@ git push origin master
 git checkout -b feat/user-authentication
 git checkout -b fix/login-bug
 git checkout -b docs/update-readme
+
 ```

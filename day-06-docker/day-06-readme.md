@@ -13,7 +13,7 @@ docker run -d --name node-todo-ctr -p 8000:8000 node-todo:latest  (best practice
 
 docker attach <container_id> -> attach terminal with container terminal
 
-Docker volume
+Docker volume - 
 
 docker volume create --name my_new_volume --opt type=none --opt o=bind --opt device=/home/ubuntu/projects/volumes  
 

@@ -20,6 +20,7 @@ Each day's folder contains:
 - **Day 04** - [Git & Version Control System](./day-04-git-github/notes.md)
 - **Day 05** - [Docker Installation & Usage](./day-05-docker-installation-and-usage/docker_readme.md)
 - **Day 06** - [Docker Volume](./day-06-docker/day-06-readme.md)
+- **Day 07** - [Jenkins](./day-06-docker/day-06-readme.md)
 
 ## 🛠️ Tools & Technologies
 
